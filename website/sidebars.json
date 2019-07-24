@@ -1,12 +1,14 @@
 {
   "docs": {
-    "Docusaurus": [
+    "Maestro": [
       "doc1",
-      "doc2",
-      "doc4"
+      "maestro-features"
     ],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
+    "Set-up": [
+      "maestro-set-up",
+      "maestro-usage"
+  ],
+    "Code and Architecture": ["maestro-code-and-architecture"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
